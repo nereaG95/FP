@@ -1,0 +1,11 @@
+Messi BCN 9 10 7
+Ronaldo RMA 2 1 10
+Gea ATM 8 6 3
+David RMA 3 2 1
+ERT ATM 3 2 1
+Casillas RMA 12 13 14
+Raul BCN 10 10 10
+Pepe RMA 10 12 13
+Ronaldinho ATM 23 12 30
+Juan RMA 10 10 10
+XXX

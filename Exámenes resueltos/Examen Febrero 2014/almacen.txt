@@ -1,0 +1,25 @@
+Atun rojo
+80
+15.95
+Besugo
+78.7
+15.95
+Mejillon
+8.5
+3
+Caballa
+350
+3
+Lubina salvaje
+410
+5.85
+Gamba
+140
+9.95
+Merluza
+475
+12.5
+Salmonete
+200.4
+6.3
+XXX
